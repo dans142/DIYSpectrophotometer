@@ -16,3 +16,7 @@ Components Used
 - 5 Cm Optical Glass Prism
 - 5V 1 Channel Relay Module 
 
+SCHEMATIC DIAGRAM
+![Schematic](https://github.com/dans142/DIYSpectrophotometer/assets/59532748/541e443c-d332-47f6-8d36-1919e68b9926)
+
+Product Demo
