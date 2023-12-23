@@ -14,4 +14,5 @@ Components Used
 - Button
 - Micro Tower Pro Classic 1.6KG Servo SG90 9g
 - 5 Cm Optical Glass Prism
+- 5V 1 Channel Relay Module 
 
