@@ -19,4 +19,7 @@ Components Used
 SCHEMATIC DIAGRAM
 ![Schematic](https://github.com/dans142/DIYSpectrophotometer/assets/59532748/541e443c-d332-47f6-8d36-1919e68b9926)
 
+3D Designs
+https://www.tinkercad.com/things/64Z7IKf0NsZ-exquisite-jaban/edit?sharecode=KMwuc24ZxCCQTgZ5h-_sMtiYIy1rZjc8VL6phYG_bjk
+
 Product Demo
