@@ -8,8 +8,8 @@
 #include <Arduino_JSON.h>
 
 const int stepsPerRevolution = 2048;  // change this to fit the number of steps per revolution
-const char* ssid = "SGU-LAB";
-const char* password = "SGUnumber1";
+const char* ssid = "INSERT SSID HERE";
+const char* password = "INSERT PASSWORD HERE";
 
 AsyncWebServer server(80);
 AsyncEventSource events("/events");
